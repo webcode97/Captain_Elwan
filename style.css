@@ -46,7 +46,7 @@
     overflow: hidden;
     width: 100%;
     height: 100vh;
-    background: url(/n-elwan/1.jpg);
+    background: url('./n-elwan/1.jpg');
     z-index: -4444;
     top: 0;
     bottom: 0;
